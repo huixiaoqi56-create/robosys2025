@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+# spdx-FileCopyrightText: 2025 hakozaki teruki
+import sys
+
+ans = 0
+for line in sys.stdin:
+    try:
+        ans += int(line)
+    except:
+        ans += float(line)
+
+print(ans)
