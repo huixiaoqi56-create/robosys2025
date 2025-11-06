@@ -1,8 +1,8 @@
 # robosys2025
 - ロボットシステム学課題１
 ![test](https://github.com/hakozaki@key/robosys2025/actions/workflows/test.yml/badge.svg)
-##tukaikata
-
+#tukaikata
+[![test](https://github.com/huixiaoqi56-create/robosys2025/actions/workflows/test.yml/badge.svg)](https://github.com/huixiaoqi56-create/robosys2025/actions/workflows/test.yml)
 
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます．
 - このパッケージは、Ryuichi Ueda由来のコードを利用しています．
